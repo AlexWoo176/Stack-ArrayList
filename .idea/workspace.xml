@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2da21de9-752f-416d-b043-97eeef06e17f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a3XoljoUUjYW0i10dTjX4DYUZw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.StackClient (1)">
+    <configuration name="StackClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testgeneric.StackClient" />
+      <module name="Stack-ArrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codegym.StackClient" />
+      <module name="Stack-ArrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackClient (1)" />
+        <item itemvalue="Application.StackClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2da21de9-752f-416d-b043-97eeef06e17f" name="Default Changelist" comment="" />
+      <created>1585965427965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585965427965</updated>
+      <workItem from="1585965429595" duration="2175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="27" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1585970384600">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state x="602" y="27" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1600.796@0.27.1600.796" timestamp="1585970384600" />
+    <state width="1554" height="360" key="GridCell.Tab.0.bottom" timestamp="1585971145359">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="360" key="GridCell.Tab.0.bottom/0.27.1600.796@0.27.1600.796" timestamp="1585971145359" />
+    <state width="1554" height="360" key="GridCell.Tab.0.center" timestamp="1585971145354">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="360" key="GridCell.Tab.0.center/0.27.1600.796@0.27.1600.796" timestamp="1585971145354" />
+    <state width="1554" height="360" key="GridCell.Tab.0.left" timestamp="1585971145352">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="360" key="GridCell.Tab.0.left/0.27.1600.796@0.27.1600.796" timestamp="1585971145352" />
+    <state width="1554" height="360" key="GridCell.Tab.0.right" timestamp="1585971145358">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="360" key="GridCell.Tab.0.right/0.27.1600.796@0.27.1600.796" timestamp="1585971145358" />
+  </component>
+</project>
